@@ -9,7 +9,7 @@ Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/
 ```txt
 ---
 layout: default
-img: ipad.png
+img: tree.png
 category: Services
 title: The service title
 ---
