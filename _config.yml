@@ -23,9 +23,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: facebook
-    url: https://www.facebook.com/kso4206/
   - title: github
     url: https://github.com/seonwookkim
   - title: instagram
     url: https://www.instagram.com/seonwock/
+  - title: facebook
+    url: https://www.facebook.com/kso4206/
